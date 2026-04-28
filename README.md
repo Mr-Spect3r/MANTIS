@@ -70,7 +70,7 @@
 - Detailed process metrics (memory MB, threads, status)
 - Select any process to view its detailed CPU/Memory history
 
-## 🖼️ Screenshots
+## 🖼️ screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7e31deea-5787-45c1-ab99-68b9d7552f2d" alt="Process Monitor" width="45%">
